@@ -6,7 +6,7 @@ public class Main {
     private UserType u;
     private void someTempFunc(){
         u = UserType.ADMIN;
-        String b = "ADMIN";
+        System.out.println(u);
 
     }
 
